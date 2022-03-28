@@ -137,3 +137,9 @@ label{
 	background-color: #0c8cd3;
 	color: #FFFFFF;
 }
+
+#filtrar-tabela {
+	width: 200px;
+	height: 35px;
+	margin-bottom: auto;
+}
